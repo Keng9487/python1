@@ -1,1 +1,4 @@
 Pyinputplus
+requests
+matplotlib
+numpy

@@ -2,3 +2,4 @@ Pyinputplus
 requests
 matplotlib
 numpy
+pandas
